@@ -1,4 +1,4 @@
-# Extração de valores numéricos (Janeiro)
+# Extração de valores numéricos
 
 Método pandas + regex para extrair valores numéricos de strings como
 "Valor: R$ 1.234,56" -> 1234.56, tratando separador de milhar (.) e decimal (,)
